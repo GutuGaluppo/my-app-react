@@ -1,0 +1,22 @@
+.btn-1 {
+  background: red;
+  width: 10px;
+  height: 10px;
+}
+.flex-item {
+  background: silver;
+  padding: 5px;
+  width: 70px;
+  height: 50px;
+  margin-top: 10px;
+
+  line-height: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+.line{
+  display: flex;
+  flex-direction: row;
+}
